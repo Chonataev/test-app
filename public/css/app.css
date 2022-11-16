@@ -1,0 +1,12 @@
+#app{
+    text-align: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.domain-list{
+    padding-top: 30px;
+    display: table;
+    margin: 0 auto;
+}
+
