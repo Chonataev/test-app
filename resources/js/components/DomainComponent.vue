@@ -39,7 +39,7 @@ export default {
                 ></textarea></div>
             </div>
 
-            <button type="submit" @click="getDomains()">Create</button>
+            <button type="submit" @click="getDomains()">Check</button>
         </div>
         <div class="domain-list">
             <table >
